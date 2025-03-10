@@ -1,6 +1,7 @@
 # Image Upscale
 
 **Note**: This application is a modified version of the [Tile-Upscaler](https://huggingface.co/spaces/gokaygokay/Tile-Upscaler) project. Special thanks to the original creator for their work in developing the initial version.
+![Screenshot 2025-03-10 231910](https://github.com/user-attachments/assets/1a999ceb-cd9a-44a9-a23f-6711cea0dacb)
 
 ---
 
